@@ -1,0 +1,1 @@
+insert into cliente values(null, "Marcia Nelza", "marcia@gmail.com","9999999999")
